@@ -16,7 +16,7 @@ body {
     transition: transform 0.5s linear;
     width:100vw;
     min-height: 100vh;
-    padding:70px;
+    padding:50px;
 }
 .container.show-nav {
     transform: rotate(-20deg);
@@ -96,7 +96,7 @@ nav ul li + li + li{
     transform:translateX(-200%);
 }
 .content img {
-    max-width:100%;
+    max-width:80%;
 }
 .content {
     max-width: 1000px;
