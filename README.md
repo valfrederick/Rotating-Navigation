@@ -1,1 +1,3 @@
-# Rotating-Navigation- This is a Udemy project from 50 Javascript projects Traversy.  The end result is a rotating navigation that retates the page to show the stairstep menu and rotates back.
+# Rotating-Navigation- 
+
+![photo rotating navigation](https://user-images.githubusercontent.com/87918240/167526545-0bf58ed1-409c-406c-ba03-24af10773b34.png)
